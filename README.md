@@ -1,2 +1,2 @@
 # Rosalind-Bioinformatics-Problems
-Some code I made for solving rosalind bioinformatics test problems
+Some fast code I made for solving rosalind bioinformatics training problems
